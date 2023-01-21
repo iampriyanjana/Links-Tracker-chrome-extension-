@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 10px;
+    min-width: 400px;
+}
+button{
+    color: white;
+    background-color: rgb(31, 167, 31);
+    font-size: bold;
+    border: 1px solid rgb(31,167,31);
+    padding: 10px 20px;
+    margin: 5px;
+}
+#delete-btn{
+    background-color: white;
+    color: rgb(31,167,31);
+}
+input{
+    width:100%;
+    padding: 10px;
+    border: 2px solid rgb(31, 167, 31);
+    box-sizing: border-box;
+}
+ul{
+    padding-left: 0;
+    list-style: none;
+}
+ul li{
+    margin: 10px;
+}
+a{
+    color:rgb(31, 167, 31);
+}
